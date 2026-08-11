@@ -1,0 +1,9 @@
+{
+  "name": "Ultra Unlock",
+  "version_number": "2.0.0",
+  "website_url": "https://github.com/Silentsmi1e/UltraUnlock",
+  "description": "Unlocks ULTRAKILL. Allows you to 100%: P-ranks, weapons, arms, Cybergrind, and more! (v2.0.0 now has working backup for your slots)",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
