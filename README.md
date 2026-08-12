@@ -6,17 +6,18 @@ UltraUnlock allows you to unlock ultrakill (kind of self explanitory). Version 2
 
 ## Features
 
-- Select which slot to actually unlock.
-- Select what you want to unlock.
-- Unlocks released campaign and Prime Sanctums through every difficulty.
-- Unlocks weapons, arms, collectables, secrets, the Bestiary, and Sandbox.
-- P-ranks the levels.
-- Can unlock cybergrind to be whatever score you want (up to 999)
-- You can create or delete backups for slots
+- Cool ass main menu. ![menu](https://raw.githubusercontent.com/Silentsmi1e/UltraUnlock/refs/heads/main/Images/MainMenu.png)
+- Select which slot to actually unlock. [Image](https://raw.githubusercontent.com/Silentsmi1e/UltraUnlock/refs/heads/main/Images/SlotChooser.png)
+- Select what you want to unlock. [Image](https://raw.githubusercontent.com/Silentsmi1e/UltraUnlock/refs/heads/main/Images/AdvancedUnlock.png)
+- Unlocks released campaign and Prime Sanctums through every difficulty. [Image](https://raw.githubusercontent.com/Silentsmi1e/UltraUnlock/refs/heads/main/Images/UnlockedDifficulties.png)
+- Unlocks weapons, arms, collectables, secrets, the Bestiary, and Sandbox. [Weapons+Arms](https://raw.githubusercontent.com/Silentsmi1e/UltraUnlock/refs/heads/main/Images/WeaponsNStuff.png), [Beastiary/SandBox](https://raw.githubusercontent.com/Silentsmi1e/UltraUnlock/refs/heads/main/Images/Beastiary.png)
+- P-ranks the levels. [Image](https://raw.githubusercontent.com/Silentsmi1e/UltraUnlock/refs/heads/main/Images/Unlocked.png), [Image2](https://raw.githubusercontent.com/Silentsmi1e/UltraUnlock/refs/heads/main/Images/UnlockedDifficulty.png)
+- Can unlock cybergrind to be whatever score you want (up to 999) [Image](https://raw.githubusercontent.com/Silentsmi1e/UltraUnlock/refs/heads/main/Images/UnlockedDifficulty.png)
+- You can create or delete backups for slots [Image](https://raw.githubusercontent.com/Silentsmi1e/UltraUnlock/refs/heads/main/Images/BackUp.png)
 
 ## Cyber Grind
 
-Cyber Grind scores unlocked by UltraUnlock must not be submitted as actual / legitimiate runs. Leaderboard submission is blocked for a save slot whose Cyber Grind score was unlocked by the mod.
+Cyber Grind scores unlocked by UltraUnlock must not be submitted as actual / legitimiate runs. Leaderboard submission is blocked for a save slot whose Cyber Grind score was unlocked by the mod. [Image](https://raw.githubusercontent.com/Silentsmi1e/UltraUnlock/refs/heads/main/Images/LeaderboardSubmittion.png)
 
 ## Notes
 
